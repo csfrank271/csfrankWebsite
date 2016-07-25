@@ -1,4 +1,9 @@
 body {
-	background: #CDCFD3;
+	background: #E8E8E8;
 	padding-top: 64px;
+}
+
+.main-container {
+    background: #FFFFFF;
+    padding: 32px;
 }
